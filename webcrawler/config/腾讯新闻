@@ -1,1 +1,0 @@
-{"url":"http://www.163.com/rss","type":"text","from":"1","to":"1","saveDir":"e:\\tenxun","selector":[{"$":"$(div.tList).children(\"a\")","attr":"href"}],"isPagination":1,"mode":"web"}
